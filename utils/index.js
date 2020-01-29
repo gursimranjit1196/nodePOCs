@@ -1,0 +1,1 @@
+exports.responseHandler = require('./responseHandler')
